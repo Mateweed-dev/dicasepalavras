@@ -215,7 +215,7 @@ body {
 .quote p {
     font-family: Georgia, "Times New Roman", serif;
 
-    font-size: clamp(14px, 1.7vw, 21px);
+    font-size: clamp(12px, 1.4vw, 16px);
 
     line-height: 1.6;
 
