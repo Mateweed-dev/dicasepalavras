@@ -174,8 +174,8 @@ body {
 
 
 .image-track img {
-    width: 480px;
-    height: 285px;
+    width: 640px;
+    height: 380px;
 
     object-fit: cover;
 
